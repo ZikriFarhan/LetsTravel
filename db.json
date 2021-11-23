@@ -1,0 +1,83 @@
+{
+  "Destination": [
+    {
+      "id": 1,
+      "nama": "Pantai Kuta",
+      "kode": "Pkt",
+      "kategori": "Pantai",
+      "gambar": "https://th.bing.com/th/id/OIP.83GkTLLHBjoztTPT7a9zZAHaEK?w=315&h=180&c=7&r=0&o=5&pid=1.7",
+      "lokasi": "https://goo.gl/maps/MR9EY6oJYJu9Wrsi6"
+    },
+    {
+      "id": 2,
+      "nama": "Pasar Lama",
+      "kode": "Psl",
+      "kategori": "Pasar",
+      "gambar": "https://cdn-cms.pgimgs.com/areainsider/2021/06/Alt-Text-Ini-Alasan-Pasar-Lama-Tangerang-Selalu-Ramai-Pengunjung.jpeg",
+      "lokasi": "https://goo.gl/maps/ipD9iu1z5Q9E6nsFA"
+    },
+    {
+      "id": 3,
+      "nama": "Candi Borobudur",
+      "kode": "Cb",
+      "kategori": "Candi",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8NNNf4GbJfEocR0D02P5tnU024nt9JRnmrA&usqp=CAU",
+      "lokasi": "https://goo.gl/maps/VoGnKxYanwTVwBN5A"
+    },
+    {
+      "id": 4,
+      "nama": "Dufan",
+      "kode": "Df",
+      "kategori": "Tempat Hiburan",
+      "gambar": "https://th.bing.com/th/id/OIP.MmPBrHVvHZnotPMwWE-7RwHaEu?w=255&h=180&c=7&r=0&o=5&pid=1.7",
+      "lokasi": "https://goo.gl/maps/oCLM3RU7SgqsEq6t8"
+    },
+    {
+      "id": 5,
+      "nama": "Gunung Tangkuban Perahu",
+      "kode": "Gtp",
+      "kategori": "Gunung",
+      "gambar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX4yf7JKGxz2rIeLbkL3HtbrxGGJ5XIFeKnw&usqp=CAU",
+      "lokasi": "https://goo.gl/maps/WDMgyKbfA4ycn9719"
+    },
+    {
+      "id": 6,
+      "nama": "Lawang Sewu",
+      "kode": "Ls",
+      "kategori": "Museum",
+      "gambar": "https://heritage.kai.id/media/MUSEUM/Lawang%20Sewu/kesibukan%20rev.jpg?1577676068225",
+      "lokasi": "https://goo.gl/maps/dyKK4trQVAjN4Yg67"
+    },
+    {
+      "id": 7,
+      "nama": "Raja Ampat",
+      "kode": "Ra",
+      "gambar": "https://www.danamon.co.id/-/media/ALL-CONTENT-ABOUT-DANAMON/BERITA/ARTICLE/Raja-Ampat-1.jpg?h=395&w=695&hash=5B4A587A0842B464DDF3E170EA1A97DBED4BFFD4",
+      "lokasi": "https://goo.gl/maps/oH4Vi98kzKT6fQxQ9"
+    },
+    {
+      "id": 8,
+      "nama": "Danau Toba",
+      "kode": "Dt",
+      "kategori": "Danau",
+      "gambar": "https://s3-kemenparekraf.s3.ap-southeast-1.amazonaws.com/PARIWISATA_STORYNOMICS_TOURISM_shutterstock_385096972_franshendrik_Tambunan_d03d3440db.jpg",
+      "lokasi": "https://goo.gl/maps/dmGSQHHrcWRVmzuq6"
+    },
+    {
+      "id": 9,
+      "nama": "Gili Trawangan",
+      "kode": "Gt",
+      "kategori": "Pantai",
+      "gambar": "http://lombokita.com/wp-content/uploads/2020/11/gili-trawangan-lombok-utara-640x400.jpg",
+      "lokasi": "https://goo.gl/maps/xPsFaAj4MK9ud6KGA"
+    },
+    {
+      "id": 10,
+      "nama": "Pantai Parang Tritis",
+      "kode": "Ppt",
+      "kategori": "Pantai",
+      "gambar": "https://images.bisnis-cdn.com/posts/2021/05/16/1394206/antarafoto-libur-lebaran-di-parangtritis-160521-hnd-1.jpg",
+      "lokasi": "https://goo.gl/maps/EjF8n22Rf9EmWJP97"
+    }
+  ]
+}
