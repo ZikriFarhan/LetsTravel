@@ -1,0 +1,17 @@
+.categories-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: 100px;
+}
+
+.categories {
+  width: 150px;
+  padding-bottom: 30px;
+}
+
+.categories-list h1 {
+  color: black;
+  font-size: 48px;
+}
